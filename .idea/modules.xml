@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Book/Book.iml" filepath="$PROJECT_DIR$/Book/Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear/Linear.iml" filepath="$PROJECT_DIR$/Linear/Linear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NonLinear/NonLinear.iml" filepath="$PROJECT_DIR$/NonLinear/NonLinear.iml" />
+    </modules>
+  </component>
+</project>
